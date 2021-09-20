@@ -1,10 +1,3 @@
-//
-//  IAPProduct.swift
-//  Absolutum
-//
-//  Created by PC3 on 21/02/19.
-//  Copyright © 2019 HeelfInfotech. All rights reserved.
-//
 
 import Foundation
 import SVProgressHUD
